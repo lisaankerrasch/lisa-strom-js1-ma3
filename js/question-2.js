@@ -1,5 +1,5 @@
 const url =
-  "https://api.rawg.io/api/ames?dates=2019-01-01,2019-12-31&ordering=-rating";
+  "https://api.rawg.io/api/games?dates=2019-01-01,2019-12-31&ordering=-rating";
 const gamesContainer = document.querySelector(".container");
 const loader = document.querySelector(".loader");
 
