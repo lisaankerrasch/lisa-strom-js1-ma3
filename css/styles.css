@@ -5,3 +5,26 @@ p.name {
 p.rating {
   font-size: 18px;
 }
+
+.container {
+  margin: 50px;
+}
+
+.games {
+  background-color: lightgrey;
+  text-align: center;
+  width: 200px;
+  padding: 20px;
+  border: solid 5px;
+  margin-bottom: 30px;
+}
+
+.error {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+  width: 400px;
+  background-color: pink;
+  border: solid 5px red;
+}
